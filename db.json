@@ -2,23 +2,23 @@
     "employee": [
         {
             "id": 0,
-            "full name": "shahrazed sakhri",
+            "fullName": "shahrazed sakhri",
             "email": "shahrazed@gomycode.co",
             "phone": "29039946",
-            "birth date": "08/08/1995",
-            "hire date": "02/01/2020",
+            "birthDate": "08/08/1995",
+            "hireDate": "02/01/2020",
             "title": " frontEnd dev",
             "departement": "engineering",
             "education": {
                 "school": {
                     "degree": "Bachelor",
-                    "fieldofstudy": "Computer Science",
+                    "fieldOfStudy": "Computer Science",
                     "from": "2015",
                     "to": "2018"
                 },
                 "university": {
                     "degree": "Master",
-                    "fieldofstudy": "Media Engineering",
+                    "fieldOfStudy": "Media Engineering",
                     "from": "2018",
                     "to": "2020"
                 }
