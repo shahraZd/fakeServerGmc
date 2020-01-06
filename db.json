@@ -1,0 +1,14 @@
+{
+    "employee": [
+        {
+            "id": 0,
+            "full name": "shahrazed sakhri",
+            "email": "shahrazed@gomycode.co",
+            "phone": "29039946",
+            "birth date": "08/08/1995",
+            "hire date": "02/01/2020",
+            "title": " frontEnd dev",
+            "departement": "engineering"
+        }
+    ]
+}
