@@ -9,20 +9,20 @@
             "hireDate": "02/01/2020",
             "title": " frontEnd dev",
             "departement": "engineering",
-            "education": {
-                "school": {
+            "education": [
+                {
                     "degree": "Bachelor",
                     "fieldOfStudy": "Computer Science",
                     "from": "2015",
                     "to": "2018"
                 },
-                "university": {
+                {
                     "degree": "Master",
                     "fieldOfStudy": "Media Engineering",
                     "from": "2018",
                     "to": "2020"
                 }
-            }
+            ]
         },
         {
             "id": 1,
